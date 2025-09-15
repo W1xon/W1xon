@@ -66,7 +66,7 @@
 ### 📱 Follow Me
 
 <p align="center">
-  <a href="https://t.me/CoderWorker">
+  <a href="https://t.me/CoderW0rker">
     <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://www.youtube.com/@w_ixon">
@@ -74,9 +74,6 @@
   </a>
   <a href="https://wixon.itch.io/">
     <img src="https://img.shields.io/badge/-Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io" />
-  </a>
-  <a href="https://vk.com/coderworker">
-    <img src="https://img.shields.io/badge/-VK-4A76A8?style=for-the-badge&logo=vk&logoColor=white" alt="VK" />
   </a>
   <a href="https://www.codewars.com/users/W1xon">
     <img src="https://img.shields.io/badge/-Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars" />
