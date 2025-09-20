@@ -1,84 +1,200 @@
-## 👋 Hi, I'm W1xon!
-**Self-taught developer, I love programming and experimenting**
+# 👨‍💻 Welcome to my Digital Playground
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Currently+dipping+into+Game+Development&duration=4000¢er=true&width=500&height=50)
-
----
-
-### 🚀 Core Skills
-<p align="center">
-  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Terminal-000000?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Cybersecurity-FF0000?style=for-the-badge&logo=security&logoColor=white" />
-</p>  
-
-### 🔥 Additional Skills  
-<p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Telegram%20Bot%20API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</p>  
-
-
----
-
-### 🌟 What’s New?
-- **Web Dev Journey**: Built my portfolio site → [wixdev.netlify.app](https://wixdev.netlify.app)  
-- **Hardware Hacking**: Experimenting with Arduino and C/C++  
-- **System Skills**: Diving into Linux and virtualization (VMware, VirtualBox)  
-- **Architecture Nerd**: Currently reading "Design Patterns" by the Gang of Four  
-
----
-
-### 📊 My Stats
-
-<p align="center">
-  <img src="https://www.codewars.com/users/W1xon/badges/large" alt="Codewars Badge" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Wixon&theme=dark" alt="WakaTime Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=W1xon&show_icons=true&theme=dark&bg_color=151515&text_color=FFFFFF" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W1xon&layout=compact&theme=dark&bg_color=151515&text_color=FFFFFF" alt="Top Languages" />
-</p>
-
----
-
-### 🎨 Visual Flair
 <div align="center">
-  <img src="https://github.com/sh4man4ik/sh4man4ik/blob/output/github-snake-dark.svg" alt="Snake Animation" />
+  
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:8A2387,50:E94057,100:F27121&height=200&section=header&text=W1xon&fontSize=80&fontAlign=70&fontAlignY=40&fontColor=ffffff&desc=Self-taught%20Developer%20%7C%20Code%20Architect%20%7C%20System%20Explorer&descAlign=70&descAlignY=60)
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=F27121&center=true&width=600&lines=🎮+Game+Development+Explorer;🔐+Cybersecurity+Enthusiast;⚙️+System+Architecture+Student;🌐+Full-Stack+Experimenter)](https://git.io/typing-svg)
+
 </div>
 
 ---
 
-### 📱 Follow Me
+## 🌟 About Me
 
-<p align="center">
-  <a href="https://t.me/CoderW0rker">
-    <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://www.youtube.com/@w_ixon">
-    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://wixon.itch.io/">
-    <img src="https://img.shields.io/badge/-Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io" />
-  </a>
-  <a href="https://www.codewars.com/users/W1xon">
-    <img src="https://img.shields.io/badge/-Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars" />
-  </a>
-  <a href="https://www.tiktok.com/@coderworker">
-    <img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-  </a>
+```csharp
+public class Developer
+{
+    public string Name { get; set; }
+    public string Role { get; set; }
+    public List<string> Experience { get; set; }
+    public string CurrentFocus { get; set; }
+    public string Philosophy { get; set; }
+}
+
+var wixon = new Developer
+{
+    Name = "W1xon",
+    Role = "Self-taught Developer & Digital Creator",
+    Experience = new List<string>
+    {
+        "Desktop Applications (WPF/WinForms)",
+        "Game Development (Unity)",
+        "System Administration",
+        "Web Technologies"
+    },
+    CurrentFocus = "Unity Game Development & System Design Patterns",
+    Philosophy = "Code with passion, learn with curiosity, build with purpose"
+};
+```
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 💼 **Primary Stack**
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,unity,dotnet,mysql,sqlite" alt="Primary Skills" />
 </p>
+
+### 🌐 **Web Technologies**
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs" alt="Web Skills" />
+</p>
+
+### 🔧 **Systems & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,windows,powershell,git,github" alt="System Skills" />
+</p>
+
+### 🚀 **Expanding Into**
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,c,arduino,python" alt="Learning" />
+</p>
+
+</div>
+
+---
+
+## 📈 Development Journey
+
+<div align="center">
+  
+  ### 🎯 **Current Mission**: Mastering Game Development Architecture
+  
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=W1xon&show_icons=true&theme=react&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_owner=true" alt="GitHub Stats"/>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W1xon&layout=compact&theme=react&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&hide_border=true" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+---
+
+## 🏆 Achievements & Recognition
+
+<div align="center">
+  
+  <table>
+    <tr>
+      <td align="center">
+        <h3>🥋 Coding Challenges</h3>
+        <img src="https://www.codewars.com/users/W1xon/badges/large" alt="Codewars Badge" />
+      </td>
+      <td align="center">
+        <h3>📊 Activity Overview</h3>
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Wixon&theme=react&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&hide_border=true" alt="WakaTime Stats" />
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+---
+
+## 📚 Currently Exploring
+
+<div align="center">
+  
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/color/96/000000/unity.png" alt="Unity"/>
+        <h4>Game Development</h4>
+        <p>Creating immersive experiences with Unity & C#</p>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/color/96/000000/book.png" alt="Design Patterns"/>
+        <h4>Architecture Patterns</h4>
+        <p>Deep diving into Gang of Four design patterns</p>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/color/96/000000/arduino.png" alt="Hardware"/>
+        <h4>Hardware Projects</h4>
+        <p>Experimenting with Arduino & embedded systems</p>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+---
+
+## 🔥 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=W1xon&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sh4man4ik/sh4man4ik/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/sh4man4ik/sh4man4ik/blob/output/github-snake.svg" />
+    <img alt="github-snake" src="https://github.com/sh4man4ik/sh4man4ik/blob/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate!
+
+<div align="center">
+  
+  ### 💬 **"Great ideas come from great conversations"**
+  
+  <p>
+    <a href="https://t.me/CoderW0rker">
+      <img src="https://img.shields.io/badge/💬%20Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" alt="Telegram" />
+    </a>
+    <a href="https://www.youtube.com/@w_ixon">
+      <img src="https://img.shields.io/badge/🎥%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000" alt="YouTube" />
+    </a>
+    <a href="https://wixon.itch.io/">
+      <img src="https://img.shields.io/badge/🎮%20Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white&labelColor=000000" alt="Itch.io" />
+    </a>
+  </p>
+  
+  <p>
+    <a href="https://www.codewars.com/users/W1xon">
+      <img src="https://img.shields.io/badge/⚔️%20Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white&labelColor=000000" alt="Codewars" />
+    </a>
+    <a href="https://www.tiktok.com/@coderworker">
+      <img src="https://img.shields.io/badge/🎵%20TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=FF0050" alt="TikTok" />
+    </a>
+  </p>
+
+</div>
+
+---
+
+<div align="center">
+  
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:8A2387,50:E94057,100:F27121&height=120&section=footer)
+  
+  ### ⚡ **"Code is poetry written in logic"** ⚡
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=W1xon&color=F27121&style=for-the-badge&label=PROFILE+VIEWS)
+  
+</div>
