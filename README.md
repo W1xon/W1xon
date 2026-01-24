@@ -24,7 +24,7 @@ public class Developer
 
 var wixon = new Developer
 {
-    Name = "W1xon",
+    Name = "Wixon",
     Role = "Self-taught Developer & Digital Creator",
     Experience = new List<string>
     {
