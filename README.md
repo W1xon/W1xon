@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:8A2387,50:E94057,100:F27121&height=200&section=header&text=W1xon&fontSize=80&fontAlign=70&fontAlignY=40&fontColor=ffffff&desc=Self-taught%20Developer%20%7C%20Code%20Architect%20%7C%20System%20Explorer&descAlign=70&descAlignY=60)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:8A2387,50:E94057,100:F27121&height=200&section=header&text=Wixon&fontSize=80&fontAlign=70&fontAlignY=40&fontColor=ffffff&desc=Self-taught%20Developer%20%7C%20Code%20Architect%20%7C%20System%20Explorer&descAlign=70&descAlignY=60)
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=F27121&center=true&width=600&lines=🎮+Game+Development+Explorer;🔐+Cybersecurity+Enthusiast;⚙️+System+Architecture+Student;🌐+Full-Stack+Experimenter)](https://git.io/typing-svg)
 
@@ -77,10 +77,10 @@ var wixon = new Developer
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=W1xon&show_icons=true&theme=react&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_owner=true" alt="GitHub Stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Wixon&show_icons=true&theme=react&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_owner=true" alt="GitHub Stats"/>
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W1xon&layout=compact&theme=react&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&hide_border=true" alt="Top Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wixon&layout=compact&theme=react&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&hide_border=true" alt="Top Languages"/>
       </td>
     </tr>
   </table>
@@ -97,7 +97,7 @@ var wixon = new Developer
     <tr>
       <td align="center">
         <h3>🥋 Coding Challenges</h3>
-        <img src="https://www.codewars.com/users/W1xon/badges/large" alt="Codewars Badge" />
+        <img src="https://www.codewars.com/users/Wixon/badges/large" alt="Codewars Badge" />
       </td>
       <td align="center">
         <h3>📊 Activity Overview</h3>
@@ -141,7 +141,7 @@ var wixon = new Developer
 ## 🔥 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=W1xon&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wixon&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ---
@@ -177,7 +177,7 @@ var wixon = new Developer
   </p>
   
   <p>
-    <a href="https://www.codewars.com/users/W1xon">
+    <a href="https://www.codewars.com/users/Wixon">
       <img src="https://img.shields.io/badge/⚔️%20Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white&labelColor=000000" alt="Codewars" />
     </a>
     <a href="https://www.tiktok.com/@coderworker">
@@ -195,6 +195,6 @@ var wixon = new Developer
   
   ### ⚡ **"Code is poetry written in logic"** ⚡
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=W1xon&color=F27121&style=for-the-badge&label=PROFILE+VIEWS)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Wixon&color=F27121&style=for-the-badge&label=PROFILE+VIEWS)
   
 </div>
