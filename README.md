@@ -67,7 +67,6 @@ var wixon = new Developer
 </div>
 
 ---
-
 ## 📈 Development Journey
 
 <div align="center">
@@ -77,10 +76,12 @@ var wixon = new Developer
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Wixon&show_icons=true&theme=react&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_owner=true" alt="GitHub Stats"/>
+        <h4>🔥 Contribution Streak</h4>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=W1xon&theme=react&background=0D1117&ring=F85D7F&fire=F8D866&currStreakNum=FFFFFF" alt="GitHub Streak"/>
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wixon&layout=compact&theme=react&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&hide_border=true" alt="Top Languages"/>
+        <h4>📊 Language Diversity</h4>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=W1xon&layout=compact&theme=react&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&hide_border=true" alt="Top Languages"/>
       </td>
     </tr>
   </table>
@@ -89,47 +90,21 @@ var wixon = new Developer
 
 ---
 
-## 🏆 Achievements & Recognition
+## 🎖️ Skills Validation
 
 <div align="center">
   
   <table>
     <tr>
-      <td align="center">
-        <h3>🥋 Coding Challenges</h3>
-        <img src="https://www.codewars.com/users/Wixon/badges/large" alt="Codewars Badge" />
+      <td align="center" width="50%">
+        <h3>🛠️ GitHub Excellence</h3>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=W1xon&show_icons=true&theme=react&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_owner=true" alt="Overall Stats" />
       </td>
-      <td align="center">
-        <h3>📊 Activity Overview</h3>
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Wixon&theme=react&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&hide_border=true" alt="WakaTime Stats" />
-      </td>
-    </tr>
-  </table>
-
-</div>
-
----
-
-## 📚 Currently Exploring
-
-<div align="center">
-  
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://img.icons8.com/color/96/000000/unity.png" alt="Unity"/>
-        <h4>Game Development</h4>
-        <p>Creating immersive experiences with Unity & C#</p>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.icons8.com/color/96/000000/book.png" alt="Design Patterns"/>
-        <h4>Architecture Patterns</h4>
-        <p>Deep diving into Gang of Four design patterns</p>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.icons8.com/color/96/000000/arduino.png" alt="Hardware"/>
-        <h4>Hardware Projects</h4>
-        <p>Experimenting with Arduino & embedded systems</p>
+      <td align="center" width="50%">
+        <h3>🥋 Codewars Rank</h3>
+        <a href="https://www.codewars.com/users/W1xon">
+          <img src="https://www.codewars.com/users/W1xon/badges/large" alt="Codewars Badge" />
+        </a>
       </td>
     </tr>
   </table>
