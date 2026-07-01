@@ -2,12 +2,11 @@
 
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:8A2387,50:E94057,100:F27121&height=200&section=header&text=Wixon&fontSize=80&fontAlign=70&fontAlignY=40&fontColor=ffffff&desc=Self-taught%20Developer%20%7C%20Code%20Architect%20%7C%20System%20Explorer&descAlign=70&descAlignY=60)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:8A2387,50:E94057,100:F27121&height=200&section=header&text=Wixon&fontSize=80&fontAlign=70&fontAlignY=40&fontColor=ffffff&desc=Information%20Security%20Student%20%7C%20C%23%20Developer&descAlign=70&descAlignY=60)
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=F27121&center=true&width=600&lines=🎮+Game+Development+Explorer;🔐+Cybersecurity+Enthusiast;⚙️+System+Architecture+Student;🌐+Full-Stack+Experimenter)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=F27121&center=true&width=600&lines=🔐+Information+Security+Student;🛠️+C%23+%2F+.NET+Developer;⚙️+System+Architecture;💻+Building+Desktop+Apps+%26+Utilities)](https://git.io/typing-svg)
 
 </div>
-
 ---
 
 ## 🌟 About Me
@@ -33,7 +32,7 @@ var wixon = new Developer
         "System Administration",
         "Web Technologies"
     },
-    CurrentFocus = "Unity Game Development & System Design Patterns",
+    CurrentFocus = "High-Performance C#, Software Architecture & Secure Coding",
     Philosophy = "Code with passion, learn with curiosity, build with purpose"
 };
 ```
