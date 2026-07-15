@@ -7,7 +7,6 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=F27121&center=true&width=600&lines=🔐+Information+Security+Student;🛠️+C%23+%2F+.NET+Developer;⚙️+System+Architecture;💻+Building+Desktop+Apps+%26+Utilities)](https://git.io/typing-svg)
 
 </div>
----
 
 ## 🌟 About Me
 
@@ -37,7 +36,6 @@ var wixon = new Developer
 };
 ```
 
----
 
 ## 🛠️ Tech Arsenal
 
@@ -65,7 +63,6 @@ var wixon = new Developer
 
 </div>
 
----
 ## 📈 Development Journey
 
 <div align="center">
@@ -87,7 +84,6 @@ var wixon = new Developer
 
 </div>
 
----
 
 ## 🎖️ Skills Validation
 
@@ -110,7 +106,6 @@ var wixon = new Developer
 
 </div>
 
----
 
 ## 🔥 Activity Graph
 
@@ -118,7 +113,6 @@ var wixon = new Developer
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=W1xon&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
----
 
 ## 🐍 Contribution Snake
 
@@ -130,7 +124,6 @@ var wixon = new Developer
   </picture>
 </div>
 
----
 
 ## 🤝 Let's Connect & Collaborate!
 
