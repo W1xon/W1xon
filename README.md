@@ -94,6 +94,38 @@ var wixon = new Developer
 
 <!--START_SECTION:waka-->
 
+**🕐 Total Coding Time**: 4 hrs 44 mins
+
+**💻 Programming Languages**:
+
+```text
+C               ██████████████░░░░░░░░░░░ 56.57% 2 hrs 40 mins
+CMake           ██████░░░░░░░░░░░░░░░░░░░ 22.80% 1 hr 4 mins
+C/C++           ████░░░░░░░░░░░░░░░░░░░░░ 16.41% 46 mins
+C/C             █░░░░░░░░░░░░░░░░░░░░░░░░  3.40% 9 mins
+Text            ░░░░░░░░░░░░░░░░░░░░░░░░░  0.69% 1 min
+```
+
+**🛠️ Editors**:
+
+```text
+CLion           █████████████████████████ 100.00%
+```
+
+**💻 Operating Systems**:
+
+```text
+Linux           █████████████████████████ 100.00%
+```
+
+**📂 Projects**:
+
+```text
+Gof_ESP                        ███████████████░░░░░░░░░░ 60.78%
+ESP-GameOfLife                █████████░░░░░░░░░░░░░░░░ 37.79%
+Unknown Project                ░░░░░░░░░░░░░░░░░░░░░░░░░  1.42%
+```
+
 <!--END_SECTION:waka-->
 
 ## ⚔️ Code & problem solving
