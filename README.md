@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:8A2387,50\:E94057,100\:F27121\&height=200\&section=header\&text=Wixon\&fontSize=80\&fontAlign=70\&fontAlignY=40\&fontColor=ffffff\&desc=C%23%20%2F%20.NET%20%7C%20Cybersecurity%20%7C%20Making%20Stuff\&descAlign=70\&descAlignY=60\&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:8A2387,50\:E94057,100\:F27121\&height=200\&section=header\&text=Wixon\&fontSize=80\&fontAlign=70\&fontAlignY=40\&fontColor=ffffff\&desc=C%23%20%2F%20.NET%20%7C%20Cybersecurity%20%7C%20Making%20Stuff\&descAlign=70\&descAlignY=60)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono\&weight=600\&size=24\&duration=3000\&pause=1000\&color=F27121\&center=true\&width=600\&lines=💻+Writing+code+for+fun;🔐+Breaking+things+for+science;🛠️+Fixing+things+because+I+broke+them;☕+Doing+it+again+tomorrow)](https://git.io/typing-svg)
 
@@ -86,8 +86,8 @@ var wixon = new Developer
 
 <div align="center">
 
-<a href="https://wakatime.com/dashboard">
-View my coding activity on WakaTime
+<a href="https://wakatime.com/@889a01ad-6ac0-4024-af8c-135bec8565c2">
+<img src="https://wakatime.com/badge/user/889a01ad-6ac0-4024-af8c-135bec8565c2.svg" alt="WakaTime"/>
 </a>
 
 </div>
