@@ -1,38 +1,29 @@
-# 👨‍💻 Welcome to...
+# 👨‍💻 Welcome to my profile
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:8A2387,50\:E94057,100\:F27121\&height=200\&section=header\&text=Wixon\&fontSize=80\&fontAlign=70\&fontAlignY=40\&fontColor=ffffff\&desc=Information%20Security%20Student%20%7C%20C%23%20Developer\&descAlign=70\&descAlignY=60)
+![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:8A2387,50\:E94057,100\:F27121\&height=200\&section=header\&text=Wixon\&fontSize=80\&fontAlign=70\&fontAlignY=40\&fontColor=ffffff\&desc=C%23%20%2F%20.NET%20%7C%20Cybersecurity%20%7C%20Making%20Stuff\&descAlign=70\&descAlignY=60\&fontColor=ffffff)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono\&weight=600\&size=24\&duration=3000\&pause=1000\&color=F27121\&center=true\&width=600\&lines=🔐+Information+Security+Student;🛠️+C%23+%2F+.NET+Developer;⚙️+System+Architecture;💻+Building+Desktop+Apps+%26+Utilities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono\&weight=600\&size=24\&duration=3000\&pause=1000\&color=F27121\&center=true\&width=600\&lines=💻+Writing+code+for+fun;🔐+Breaking+things+for+science;🛠️+Fixing+things+because+I+broke+them;☕+Doing+it+again+tomorrow)](https://git.io/typing-svg)
 
 </div>
 
 ## 👋 A little about me
 
 ```csharp
-public class Developer
-{
-    public string Name { get; set; }
-    public string Role { get; set; }
-    public List<string> Experience { get; set; }
-    public string CurrentFocus { get; set; }
-    public string Philosophy { get; set; }
-}
-
 var wixon = new Developer
 {
     Name = "Wixon",
-    Role = "Self-taught Developer & Digital Creator",
-    Experience = new List<string>
+    Stack = "C# / .NET",
+    Interests = new[]
     {
-        "Desktop Applications (WPF/WinForms)",
-        "Game Development (Unity)",
-        "System Administration",
-        "Web Technologies"
+        "Cybersecurity",
+        "Desktop apps",
+        "Game dev",
+        "Random side projects"
     },
-    CurrentFocus = "High-Performance C#, Software Architecture & Secure Coding",
-    Philosophy = "Code with passion, learn with curiosity, build with purpose"
+    Currently = "Building something probably unnecessary",
+    Debugging = true
 };
 ```
 
@@ -61,7 +52,7 @@ var wixon = new Developer
 ### Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c,arduino" alt="Currently Learning"/>
+<img src="https://skillicons.dev/icons?i=cpp,c" alt="Currently Learning"/>
 </p>
 
 </div>
@@ -93,36 +84,15 @@ var wixon = new Developer
 
 ### ⌨️ WakaTime
 
+<div align="center">
+
+<a href="https://wakatime.com/dashboard">
+View my coding activity on WakaTime
+</a>
+
 </div>
 
 <!--START_SECTION:waka-->
-**🕐 Total Coding Time**: 4 hrs 44 mins
-
-**💻 Programming Languages**:
-```text
-C               ██████████████░░░░░░░░░░░ 56.57% 2 hrs 40 mins
-CMake           ██████░░░░░░░░░░░░░░░░░░░ 22.80% 1 hr 4 mins
-C/C++           ████░░░░░░░░░░░░░░░░░░░░░ 16.41% 46 mins
-C/C             █░░░░░░░░░░░░░░░░░░░░░░░░  3.40% 9 mins
-Text            ░░░░░░░░░░░░░░░░░░░░░░░░░  0.69% 1 min
-```
-
-**🛠️ Editors**:
-```text
-CLion           █████████████████████████ 100.00%
-```
-
-**💻 Operating Systems**:
-```text
-Linux           █████████████████████████ 100.00%
-```
-
-**📂 Projects**:
-```text
-Gof_ESP                        ███████████████░░░░░░░░░░ 60.78%
-ESP-GameOfLife                 █████████░░░░░░░░░░░░░░░░ 37.79%
-Unknown Project                ░░░░░░░░░░░░░░░░░░░░░░░░░  1.42%
-```
 
 <!--END_SECTION:waka-->
 
@@ -155,7 +125,7 @@ Unknown Project                ░░░░░░░░░░░░░░░░�
 
 </div>
 
-## 🐍 Snake
+## 🐍 Contribution snake
 
 <div align="center">
 
@@ -167,7 +137,7 @@ Unknown Project                ░░░░░░░░░░░░░░░░�
 
 </div>
 
-## 🌐 Find me on the internet
+## 🌐 Find me online
 
 <div align="center">
 
