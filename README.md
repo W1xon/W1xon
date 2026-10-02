@@ -1,14 +1,14 @@
-# 👨‍💻 Welcome to my Digital Playground
+# 👨‍💻 Welcome to...
 
 <div align="center">
-  
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:8A2387,50:E94057,100:F27121&height=200&section=header&text=Wixon&fontSize=80&fontAlign=70&fontAlignY=40&fontColor=ffffff&desc=Information%20Security%20Student%20%7C%20C%23%20Developer&descAlign=70&descAlignY=60)
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=F27121&center=true&width=600&lines=🔐+Information+Security+Student;🛠️+C%23+%2F+.NET+Developer;⚙️+System+Architecture;💻+Building+Desktop+Apps+%26+Utilities)](https://git.io/typing-svg)
+
+![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:8A2387,50\:E94057,100\:F27121\&height=200\&section=header\&text=Wixon\&fontSize=80\&fontAlign=70\&fontAlignY=40\&fontColor=ffffff\&desc=Information%20Security%20Student%20%7C%20C%23%20Developer\&descAlign=70\&descAlignY=60)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono\&weight=600\&size=24\&duration=3000\&pause=1000\&color=F27121\&center=true\&width=600\&lines=🔐+Information+Security+Student;🛠️+C%23+%2F+.NET+Developer;⚙️+System+Architecture;💻+Building+Desktop+Apps+%26+Utilities)](https://git.io/typing-svg)
 
 </div>
 
-## 🌟 About Me
+## 👋 A little about me
 
 ```csharp
 public class Developer
@@ -36,132 +36,154 @@ var wixon = new Developer
 };
 ```
 
-
-## 🛠️ Tech Arsenal
+## 🛠️ What I use
 
 <div align="center">
 
-### 💼 **Primary Stack**
+### C# / .NET
+
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,unity,dotnet,mysql,sqlite" alt="Primary Skills" />
+<img src="https://skillicons.dev/icons?i=cs,unity,dotnet" alt="C# / .NET"/>
 </p>
 
-### 🌐 **Web Technologies**
+### Web
+
 <p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs" alt="Web Skills" />
+<img src="https://skillicons.dev/icons?i=js,html,css,nodejs" alt="Web"/>
 </p>
 
-### 🔧 **Systems & Tools**
+### Systems & tools
+
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,windows,powershell,git,github" alt="System Skills" />
+<img src="https://skillicons.dev/icons?i=linux,windows,powershell,git,github,mysql,sqlite" alt="Systems & Tools"/>
 </p>
 
-### 🚀 **Expanding Into**
+### Learning
+
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,arduino,python" alt="Learning" />
+<img src="https://skillicons.dev/icons?i=cpp,c,arduino" alt="Currently Learning"/>
 </p>
 
 </div>
 
-## 📈 Development Journey
+## 📊 Stats
 
 <div align="center">
-  
-  ### 🎯 **Current Mission**: Mastering Game Development Architecture
-  
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <h4>🔥 Contribution Streak</h4>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=W1xon&theme=react&background=0D1117&ring=F85D7F&fire=F8D866&currStreakNum=FFFFFF" alt="GitHub Streak"/>
-      </td>
-      <td align="center" width="50%">
-        <h4>📊 Language Diversity</h4>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=W1xon&layout=compact&theme=react&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&hide_border=true" alt="Top Languages"/>
-      </td>
-    </tr>
-  </table>
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+<h4>🔥 GitHub activity</h4>
+
+<img src="https://streak-stats.demolab.com?user=W1xon&theme=react&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true" alt="GitHub Streak"/>
+
+</td>
+<td align="center" width="50%">
+
+<h4>📚 Languages</h4>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W1xon&layout=compact&theme=react&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&hide_border=true" alt="Top Languages"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
-
-## 🎖️ Skills Validation
+### ⌨️ WakaTime
 
 <div align="center">
-  
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <h3>🛠️ GitHub Excellence</h3>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=W1xon&show_icons=true&theme=react&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_owner=true" alt="Overall Stats" />
-      </td>
-      <td align="center" width="50%">
-        <h3>🥋 Codewars Rank</h3>
-        <a href="https://www.codewars.com/users/W1xon">
-          <img src="https://www.codewars.com/users/W1xon/badges/large" alt="Codewars Badge" />
-        </a>
-      </td>
-    </tr>
-  </table>
+
+<a href="https://wakatime.com/dashboard">
+View my coding activity on WakaTime
+</a>
 
 </div>
 
+<!--START_SECTION:waka-->
 
-## 🔥 Activity Graph
+<!--END_SECTION:waka-->
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=W1xon&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
-
-
-## 🐍 Contribution Snake
+## ⚔️ Code & problem solving
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sh4man4ik/sh4man4ik/blob/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/sh4man4ik/sh4man4ik/blob/output/github-snake.svg" />
-    <img alt="github-snake" src="https://github.com/sh4man4ik/sh4man4ik/blob/output/github-snake-dark.svg" />
-  </picture>
-</div>
 
+<table>
+<tr>
+<td align="center" width="50%">
 
-## 🤝 Let's Connect & Collaborate!
+<h4>🥋 Codewars</h4>
 
-<div align="center">
-  
-  ### 💬 **"Great ideas come from great conversations"**
-  
-  <p>
-    <a href="https://t.me/CoderW0rker">
-      <img src="https://img.shields.io/badge/💬%20Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" alt="Telegram" />
-    </a>
-    <a href="https://www.youtube.com/@w_ixon">
-      <img src="https://img.shields.io/badge/🎥%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000" alt="YouTube" />
-    </a>
-    <a href="https://wixon.itch.io/">
-      <img src="https://img.shields.io/badge/🎮%20Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white&labelColor=000000" alt="Itch.io" />
-    </a>
-  </p>
-  
-  <p>
-    <a href="https://www.codewars.com/users/Wixon">
-      <img src="https://img.shields.io/badge/⚔️%20Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white&labelColor=000000" alt="Codewars" />
-    </a>
-    <a href="https://www.tiktok.com/@coderworker">
-      <img src="https://img.shields.io/badge/🎵%20TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=FF0050" alt="TikTok" />
-    </a>
-  </p>
+<a href="https://www.codewars.com/users/W1xon">
+<img src="https://www.codewars.com/users/W1xon/badges/large" alt="Codewars Badge"/>
+</a>
+
+</td>
+<td align="center" width="50%">
+
+<h4>💡 LeetCode</h4>
+
+<a href="https://leetcode.com/u/W1xon/">
+<img src="https://leetcard.jacoblin.cool/W1xon?theme=dark&font=JetBrains%20Mono&border=0&bg_color=0D1117" alt="LeetCode Stats"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 </div>
 
----
+## 🐍 Snake
 
 <div align="center">
-  
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:8A2387,50:E94057,100:F27121&height=120&section=footer)
-  
-  ### ⚡ **"Code is poetry written in logic"** ⚡
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Wixon&color=F27121&style=for-the-badge&label=PROFILE+VIEWS)
-  
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/W1xon/W1xon/output/github-contribution-grid-snake-dark.svg"/>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/W1xon/W1xon/output/github-contribution-grid-snake.svg"/>
+<img alt="github-snake" src="https://raw.githubusercontent.com/W1xon/W1xon/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+</div>
+
+## 🌐 Find me on the internet
+
+<div align="center">
+
+<p>
+<a href="https://t.me/CoderW0rker">
+<img src="https://img.shields.io/badge/💬%20Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" alt="Telegram"/>
+</a>
+
+<a href="https://www.youtube.com/@w_ixon">
+<img src="https://img.shields.io/badge/🎥%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000" alt="YouTube"/>
+</a>
+
+<a href="https://wixon.itch.io/">
+<img src="https://img.shields.io/badge/🎮%20Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white&labelColor=000000" alt="Itch.io"/>
+</a>
+</p>
+
+<p>
+<a href="https://www.codewars.com/users/W1xon">
+<img src="https://img.shields.io/badge/⚔️%20Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white&labelColor=000000" alt="Codewars"/>
+</a>
+
+<a href="https://leetcode.com/u/W1xon/">
+<img src="https://img.shields.io/badge/💡%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=000000" alt="LeetCode"/>
+</a>
+
+<a href="https://www.tiktok.com/@coderworker">
+<img src="https://img.shields.io/badge/🎵%20TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=FF0050" alt="TikTok"/>
+</a>
+</p>
+
+</div>
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving\&color=0:8A2387,50\:E94057,100\:F27121\&height=120\&section=footer)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Wixon\&color=F27121\&style=for-the-badge\&label=PROFILE+VIEWS)
+
 </div>
