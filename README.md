@@ -93,12 +93,6 @@ var wixon = new Developer
 
 ### ⌨️ WakaTime
 
-<div align="center">
-
-<a href="https://wakatime.com/dashboard">
-View my coding activity on WakaTime
-</a>
-
 </div>
 
 <!--START_SECTION:waka-->
