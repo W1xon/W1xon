@@ -93,11 +93,9 @@ var wixon = new Developer
 </div>
 
 <!--START_SECTION:waka-->
-
 **🕐 Total Coding Time**: 4 hrs 44 mins
 
 **💻 Programming Languages**:
-
 ```text
 C               ██████████████░░░░░░░░░░░ 56.57% 2 hrs 40 mins
 CMake           ██████░░░░░░░░░░░░░░░░░░░ 22.80% 1 hr 4 mins
@@ -107,22 +105,19 @@ Text            ░░░░░░░░░░░░░░░░░░░░░�
 ```
 
 **🛠️ Editors**:
-
 ```text
 CLion           █████████████████████████ 100.00%
 ```
 
 **💻 Operating Systems**:
-
 ```text
 Linux           █████████████████████████ 100.00%
 ```
 
 **📂 Projects**:
-
 ```text
 Gof_ESP                        ███████████████░░░░░░░░░░ 60.78%
-ESP-GameOfLife                █████████░░░░░░░░░░░░░░░░ 37.79%
+ESP-GameOfLife                 █████████░░░░░░░░░░░░░░░░ 37.79%
 Unknown Project                ░░░░░░░░░░░░░░░░░░░░░░░░░  1.42%
 ```
 
