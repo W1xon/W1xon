@@ -1,4 +1,4 @@
-# 👨‍💻 Welcome to my profile
+# 👨‍💻 Welcome to...
 
 <div align="center">
 
@@ -43,7 +43,7 @@ var wixon = new Developer
 <img src="https://skillicons.dev/icons?i=js,html,css,nodejs" alt="Web"/>
 </p>
 
-### Systems & tools
+### Systems & Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=linux,windows,powershell,git,github,mysql,sqlite" alt="Systems & Tools"/>
@@ -93,33 +93,6 @@ var wixon = new Developer
 </div>
 
 <!--START_SECTION:waka-->
-**🕐 Total Coding Time**: 4 hrs 44 mins
-
-**💻 Programming Languages**:
-```text
-C               ██████████████░░░░░░░░░░░ 56.57% 2 hrs 40 mins
-CMake           ██████░░░░░░░░░░░░░░░░░░░ 22.80% 1 hr 4 mins
-C/C++           ████░░░░░░░░░░░░░░░░░░░░░ 16.41% 46 mins
-C/C             █░░░░░░░░░░░░░░░░░░░░░░░░  3.40% 9 mins
-Text            ░░░░░░░░░░░░░░░░░░░░░░░░░  0.69% 1 min
-```
-
-**🛠️ Editors**:
-```text
-CLion           █████████████████████████ 100.00%
-```
-
-**💻 Operating Systems**:
-```text
-Linux           █████████████████████████ 100.00%
-```
-
-**📂 Projects**:
-```text
-Gof_ESP                        ███████████████░░░░░░░░░░ 60.78%
-ESP-GameOfLife                 █████████░░░░░░░░░░░░░░░░ 37.79%
-Unknown Project                ░░░░░░░░░░░░░░░░░░░░░░░░░  1.42%
-```
 
 <!--END_SECTION:waka-->
 
