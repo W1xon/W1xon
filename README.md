@@ -93,22 +93,22 @@ var wixon = new Developer
 </div>
 
 <!--START_SECTION:waka-->
-**🕐 Total Coding Time**: 9 hrs 43 mins
+**🕐 Total Coding Time**: 14 hrs 55 mins
 
 **💻 Programming Languages**:
 ```text
-C               ██████████████░░░░░░░░░░░ 57.38% 5 hrs 34 mins
-C/C++           ███████░░░░░░░░░░░░░░░░░░ 26.85% 2 hrs 36 mins
-CMake           ███░░░░░░░░░░░░░░░░░░░░░░ 10.43% 1 hr
-C/C             █░░░░░░░░░░░░░░░░░░░░░░░░  5.33% 31 mins
-CMakeLists.txt  ░░░░░░░░░░░░░░░░░░░░░░░░░  0.01% 0 secs
+C               ███████████████░░░░░░░░░░ 61.22% 9 hrs 8 mins
+C/C++           ██████░░░░░░░░░░░░░░░░░░░ 24.70% 3 hrs 41 mins
+CMake           ██░░░░░░░░░░░░░░░░░░░░░░░  8.35% 1 hr 14 mins
+C/C             █░░░░░░░░░░░░░░░░░░░░░░░░  5.57% 49 mins
+Text            ░░░░░░░░░░░░░░░░░░░░░░░░░  0.15% 1 min
 ```
 
 **🛠️ Editors**:
 ```text
-CLion           █████████████████████████ 99.93%
-Copilot         ░░░░░░░░░░░░░░░░░░░░░░░░░  0.04%
-Copilot CLI     ░░░░░░░░░░░░░░░░░░░░░░░░░  0.03%
+CLion           █████████████████████████ 99.41%
+Copilot         ░░░░░░░░░░░░░░░░░░░░░░░░░  0.40%
+Copilot CLI     ░░░░░░░░░░░░░░░░░░░░░░░░░  0.19%
 ```
 
 **💻 Operating Systems**:
